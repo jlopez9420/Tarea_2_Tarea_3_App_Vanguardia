@@ -1,0 +1,52 @@
+{
+    "deptos": [
+        {
+            "department": "Cortes",
+            "capital": "San Pedro Sula",
+            "info": "It is the capital of Cortés Department, Honduras. It is located in the northwest corner of the country in the Sula Valley, about 50 kilometres (31 mi) south of Puerto Cortés on the Caribbean Sea. With a census population of 719,063 in 2013,[1] and 1,445,598 people living in its metropolitan area in 2010, it is the nation's primary industrial center and second largest city after the capital Tegucigalpa.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/a/ae/San_Pedro_Sula_Cathedral.jpg",
+            "founded": "27 June 1536; 481 years ago",
+            "population": "1, 157, 059"
+        },
+        {
+            "department": "Francisco Morazán",
+            "capital": "Tegucigalpa",
+            "info": "Formally called Tegucigalpa, Municipality of the Central District, Spanish: Tegucigalpa, Municipio del Distrito Central or Tegucigalpa, M.D.C.), commonly referred to as Téguz,[9] is the capital and largest city of Honduras along with its twin sister, Comayagüela.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Tegucigalpa_Images_Collage.jpg",
+            "founded": "29 September 1578; 439 years ago",
+            "population": "1, 057, 729"
+        },
+        {
+            "department": "Atlantida",
+            "capital": "Ceiba",
+            "info": "La Ceiba is a port city on the northern coast of Honduras in Central America. It is located on the southern edge of the Caribbean, forming part of the south eastern boundary of the Gulf of Honduras. With an estimated population of over 200,000 living in approximately 170 residential areas (called colonias or barrios), it is the third largest city in the country and the capital of the Honduran department of Atlántida. La Ceiba was officially founded on 23 August 1877. The city was named after a giant ceiba tree which grew near the old dock.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/5/5e/La_Ceiba_City_Hall.jpg",
+            "founded": "23 August 1877; 140 years ago",
+            "population": "200, 000"
+        },
+        {
+            "department": "Colón",
+            "capital": "Trujillo",
+            "info": "Trujillo is a city and a municipality on the northern Caribbean coast of the Honduran department of Colón, of which the city is the capital. The municipality has a population of about 30,000 (2003). The city is located on a bluff overlooking the Bay of Trujillo. Behind the city rise two prominent mountains, Mount Capiro and Mount Calentura. Three Garifuna fishing villages—Santa Fe, San Antonio, and Guadelupe—are located along the beach.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Trujillo3.jpg",
+            "founded": "29 November 1534; 483 years ago",
+            "population": "157, 000"
+        },
+        {
+            "department": "Copán",
+            "capital": "Santa Rosa de Copán",
+            "info": "Is the departmental capital of the Honduran department of Copán. It is approximately 1,150 metres (3,773 ft) above mean sea level.",
+            "img": "https://en.wikipedia.org/wiki/Santa_Rosa_de_Cop%C3%A1n#/media/File:ChurchSantaRosa.jpg",
+            "founded": "12 April 1843; 175 years ago",
+            "population": "42,803"
+        },
+        {
+            "department": "Islas de la Bahía",
+            "capital": "Tegucigalpa",
+            "info": "The Bay Islands (Spanish: Islas de la Bahía; is a group of islands off the coast of Honduras. Collectively, the islands form one of the 18 Departments of Honduras. The departmental capital is Roatan, on the island of Roatán.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Garifuna_fishermen_Cayos_cochinos.jpg",
+            "founded": "29 September 1578; 439 years ago",
+            "population": "65,932"
+        }
+    ]
+}
